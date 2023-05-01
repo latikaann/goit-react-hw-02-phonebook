@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import css from '../ContactList/ContactList.module.css';
 import ContactListItem from './ContactListItem';
 import PropTypes from 'prop-types';
